@@ -1,0 +1,75 @@
+body{
+    margin: 20% 20% 1% 1%;
+    width: 98%;
+    height: 60px;
+    outline-style: outset; 
+}
+
+.boxer{
+    width: 50%;
+    height: 70%;
+    background-color: yellow;
+    position: relative;
+    left: 25%;
+    bottom: 125%;
+}
+
+.box1{
+    width: 25%;
+    height: 85%;
+    background-color: rgb(72, 132, 241);
+    position: absolute;
+    top: 15%;
+    left: 5%;
+}
+.boxes2{
+    width: 30%;
+    height: 80%;
+    background-color: red;
+    position: absolute;
+    left: 70%;
+}
+
+.box4{
+    width: 5%;
+    height: 70%;
+    background-color: yellow;
+    position: relative;
+    left: 2%;
+    bottom: 55%;
+}
+
+.box3{
+    width: 5%;
+    height: 70%;
+    background-color: yellow;
+    position: relative;
+    left: 91%;
+    top: 15%;
+}
+.boxes{
+    width: 50%;
+    height: 70%;
+    border: 3px solid green;
+    position: absolute;
+    left: 23%;
+    top: 10%;
+}
+
+.box2{
+    width: 25%;
+    height: 85%;
+    background-color: rgb(72, 132, 241);
+    position: absolute;
+    top: 15%;
+    left: 45%;
+}
+
+.box5{
+    width: 13%;
+    height: 85%;
+    background-color: rgb(72, 132, 241);
+    position: absolute;
+    top: 15%;
+    left: 84%;
+}

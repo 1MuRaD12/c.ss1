@@ -1,0 +1,46 @@
+body{
+    height: 500vh;
+}
+
+.country1 h1{
+    width: 100%;
+    height: 30px;
+    background-color: gray;
+    color: white;
+    position: sticky;
+    top: 1px;
+}
+.country2 h1{
+    width: 100%;
+    height: 30px;
+    background-color: gray;
+    color: white;
+    position: sticky;
+    top: 1px;
+}
+.country3 h1{
+    width: 100%;
+    height: 30px;
+    background-color: gray;
+    color: white;
+    position: sticky;
+    top: 1px;
+}
+.country4 h1{
+    width: 100%;
+    height: 30px;
+    background-color: gray;
+    color: white;
+    position: sticky;
+    top: 1px;
+}
+.country5 h1{
+    width: 100%;
+    height: 30px;
+    background-color: gray;
+    color: white;
+    position: sticky;
+    top: 1px;
+}
+
+
